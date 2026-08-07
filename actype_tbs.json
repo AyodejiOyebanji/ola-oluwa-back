@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "6576db43e2049e385c383fcd"
+  },
+  "act_id": 100,
+  "title": "Account Payable",
+  "description": "This represent balance owned to customers",
+  "createdAt": {
+    "$date": "2023-12-11T09:49:55.038Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-11T09:49:55.038Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6576db6ce2049e385c383fcf"
+  },
+  "act_id": 200,
+  "title": "Account Receivables",
+  "description": "This represent balance owned by customers",
+  "createdAt": {
+    "$date": "2023-12-11T09:50:36.612Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-11T09:50:36.612Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6576dba9e2049e385c383fd1"
+  },
+  "act_id": 300,
+  "title": "Cash",
+  "description": "Cash",
+  "createdAt": {
+    "$date": "2023-12-11T09:51:37.326Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-11T09:51:37.326Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6576dbdae2049e385c383fd3"
+  },
+  "act_id": 400,
+  "title": "Expenses",
+  "description": "These represent the costs and liabilities incurred to produce revenues. The assets surrendered or consumed when serving customers indicate company expenses. If income exceeds expenses, nt income results. If expenses exceed income, the business is said to be operating at a net loss.   Select this account type if you are setting up accunts such as operation expense, travel expense, or charity expense.",
+  "createdAt": {
+    "$date": "2023-12-11T09:52:26.771Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-11T09:52:26.771Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6576dbf3e2049e385c383fd5"
+  },
+  "act_id": 500,
+  "title": "Bank",
+  "description": "Money in bank ",
+  "createdAt": {
+    "$date": "2023-12-11T09:52:51.196Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-11T09:52:51.196Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "657b7e09ed507f5865b858fd"
+  },
+  "act_id": 600,
+  "title": "Raw Material",
+  "description": "Raw material Account",
+  "createdAt": {
+    "$date": "2023-12-14T22:13:29.715Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-14T22:13:29.715Z"
+  },
+  "__v": 0
+}]
